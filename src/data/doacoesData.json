@@ -1,0 +1,62 @@
+[
+  {
+    "label": "Jan",
+    "doacoes": 64854,
+    "custos": 32652
+  },
+  {
+    "label": "Fev",
+    "doacoes": 54628,
+    "custos": 42393
+  },
+  {
+    "label": "Mar",
+    "doacoes": 117238,
+    "custos": 50262
+  },
+  {
+    "label": "Apr",
+    "doacoes": 82830,
+    "custos": 64731
+  },
+  {
+    "label": "Mai",
+    "doacoes": 91208,
+    "custos": 41893
+  },
+  {
+    "label": "Jun",
+    "doacoes": 103609,
+    "custos": 83809
+  },
+  {
+    "label": "Jul",
+    "doacoes": 90974,
+    "custos": 44772
+  },
+  {
+    "label": "Ago",
+    "doacoes": 82919,
+    "custos": 37590
+  },
+  {
+    "label": "Set",
+    "doacoes": 62407,
+    "custos": 43349
+  },
+  {
+    "label": "Out",
+    "doacoes": 82528,
+    "custos": 45324
+  },
+  {
+    "label": "Nov",
+    "doacoes": 56979,
+    "custos": 47978
+  },
+  {
+    "label": "Dec",
+    "doacoes": 87436,
+    "custos": 39175
+  }
+]
