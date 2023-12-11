@@ -89,12 +89,12 @@ export const App = () => {
                 label: "Count",
                 data: origensData.map((data) => data.value),
                 backgroundColor: [
-                  "rgba(43, 63, 229, 0.8)",
+                  "rgba(43, 463, 229, 0.8)",
                   "rgba(250, 192, 19, 0.8)",
                   "rgba(253, 135, 135, 0.8)",
                 ],
                 borderColor: [
-                  "rgba(43, 63, 229, 0.8)",
+                  "rgba(43, 63, 150, 0.8)",
                   "rgba(250, 192, 19, 0.8)",
                   "rgba(253, 135, 135, 0.8)",
                 ],

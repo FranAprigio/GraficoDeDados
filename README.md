@@ -1,6 +1,8 @@
 # React + Vite
 
-Para a inicialização do projeto
+Projeto com parceria da Instuição Academia de ensino
+
+Para a inicialização do projeto 
 
 npm install
 npm run dev
